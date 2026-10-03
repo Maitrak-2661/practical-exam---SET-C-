@@ -366,7 +366,7 @@ Preprocessing (median imputer → engineered feature → scaler + one-hot) is re
 
 | | |
 |---|---|
-| 📺 **Video URL** | https://drive.google.com/drive/folders/1gfDl_DSENBd-UPjhihfoSHXTJ_Opfthc?usp=drive_link |
+| 📺 **Video URL** | (https://drive.google.com/drive/folders/1gfDl_DSENBd-UPjhihfoSHXTJ_Opfthc?usp=drive_link) |
 
 **References**
 - scikit-learn documentation — https://scikit-learn.org
